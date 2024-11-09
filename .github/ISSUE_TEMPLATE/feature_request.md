@@ -1,3 +1,10 @@
+---
+name: Request for Change (RFC)
+about: Create a request for change to propose new features or improvements
+title: ''
+labels: RFC
+assignees: ''
+---
 # Request for Change (RFC)
 
 ## Title: [Title of your RFC]
